@@ -1,2 +1,1 @@
-hello 
-hello 
+This is a readme for verCheckData
