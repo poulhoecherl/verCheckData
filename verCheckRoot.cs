@@ -1,4 +1,4 @@
-internal class verCheckData
+public class verCheckData
 {
     public string? Name { get; set; }
 
